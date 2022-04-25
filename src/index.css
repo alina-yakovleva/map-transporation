@@ -1,0 +1,30 @@
+.App {
+  width: 100vw;
+  height: 100vh;
+}
+
+.ant-layout-sider-children {
+  background-color: white;
+}
+.ant-table-wrapper {
+  background-color: white;
+}
+.ant-layout-header {
+  background-color: white;
+}
+svg {
+  color: #2e86c1;
+}
+
+ul li.active {
+  background-color: rgba(209, 235, 214, 0.5);
+}
+img {
+  opacity: 1;
+}
+.empty-selected {
+  height: 100vh;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
